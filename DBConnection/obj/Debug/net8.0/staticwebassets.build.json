@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/s3anA8SFgTCl91s3Lk9XWA2SKMYnBrCFajFJsM1C2g=",
+  "Source": "DBConnection",
+  "BasePath": "_content/DBConnection",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
